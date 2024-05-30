@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1.Upma
 2.Sweet Potato
 3.Curd
+=======
+1.Something Something
+2.Kandukonden Kandukonden
+3.Jay Jay
+>>>>>>> movies
